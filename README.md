@@ -14,6 +14,8 @@ A google drive like project to upload and store all your files and access them o
 - transcribe audio for audio/video transcribe based search (openai-wishper)
 - people identification in images (tensorflow)
 - document searching
+- delete files
+- search files
 
 > Any and all support to completing this project is appreciated!
 
