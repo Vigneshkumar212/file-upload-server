@@ -31,6 +31,17 @@ A google drive like project to upload and store all your files and access them o
 git clone https://github.com/Vigneshkumar212/file-upload-server.git
 cd file-upload-server
 npm install
+```
+Make a folder called `uploads` inside the `app` folder
+Make a file called `uploads_details_server_use_only.json` inside the `app` folder with the following content:
+
+```json
+{
+  "uploadedFilesInfo": {}
+}
+```
+
+```sh
 node server.js
 ```
 
