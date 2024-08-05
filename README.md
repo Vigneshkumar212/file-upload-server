@@ -1,4 +1,6 @@
 # file-upload-server
+> Beta-0.1.1 doesn't have any significant changes, no progress only minor changes
+
 A google drive like project to upload and store all your files and access them on the internet
 
 > This project is still under developemnt. No releases as of yet.
